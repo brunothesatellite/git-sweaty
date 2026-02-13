@@ -48,9 +48,6 @@ Fastest path: fork, run one script, and let it configure the repository for you.
 You can switch between `strava` and `garmin` any time, even after initial setup.
 
 - Re-run `python3 scripts/setup_auth.py` and choose a different source (or pass `--source strava` / `--source garmin`).
-- This updates `DASHBOARD_SOURCE`, so future scheduled runs use the new source until you change it again.
-- The first sync after a source change resets provider-specific state and rebuilds from the selected source.
-- Using the workflow **Run workflow** `source` input is a one-time override for that run only (it does not permanently change `DASHBOARD_SOURCE`).
 
 ### Option 2: Manual setup (no local clone required)
 
