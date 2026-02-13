@@ -79,22 +79,6 @@ You can switch between `strava` and `garmin` any time, even after initial setup.
 
 6. Open your live site at `https://<your-username>.github.io/<repo-name>/` after deploy finishes.
 
-### Unit Preference Precedence
-
-- Option 1 stores your unit choice in repo variables:
-  - `DASHBOARD_SOURCE`
-  - `DASHBOARD_DISTANCE_UNIT`
-  - `DASHBOARD_ELEVATION_UNIT`
-- When those variables are set, workflow runs use them and override `config.yaml` units.
-- If those variables are unset, workflow runs use `config.yaml` units (this is the default for Option 2/manual setup).
-- To switch back to `config.yaml`-only unit control, delete those two repo variables in Settings → Secrets and variables → Actions, or:
-
-  ```bash
-  gh variable delete DASHBOARD_SOURCE
-  gh variable delete DASHBOARD_DISTANCE_UNIT
-  gh variable delete DASHBOARD_ELEVATION_UNIT
-  ```
-
 Both options run the same workflow, which will:
 - restore persisted state from the `dashboard-data` branch (if present)
 - sync raw activities into `activities/raw/<source>/` (local-only; not committed)
