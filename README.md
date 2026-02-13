@@ -35,16 +35,12 @@ Fastest path: fork, run one script, and let it configure the repository for you.
    python3 scripts/setup_auth.py
    ```
 
-   Follow the terminal prompts and choose a source:
-      - `strava` (OAuth flow with `STRAVA_CLIENT_ID` and `STRAVA_CLIENT_SECRET`)
-      - `garmin` (prompts for Garmin email/password, generates `GARMIN_TOKENS_B64`, and stores `GARMIN_TOKENS_B64` + Garmin email/password secrets for fallback auth)
+   Follow the terminal prompts to choose a source and unit preference:
+      - `strava` - terminal will link to [Strava API application](https://www.strava.com/settings/api). Create an application first and set **Authorization Callback Domain** to `localhost`. The prompt will then ask for `Client ID` and `Client Secret`
+      - `garmin` - terminal prompts for Garmin email/password
       - unit preference (`US` or `Metric`)
-      - When using `strava`, setup also attempts to configure `STRAVA_SECRET_UPDATE_TOKEN` automatically from your current `gh auth` session so refresh-token rotation can self-heal in Actions.
 
-   If you choose `strava`, create a [Strava API application](https://www.strava.com/settings/api) first and set **Authorization Callback Domain** to `localhost`.
-
-   The setup may take several minutes to complete when run for the first time.  
-   If any automation step fails, the script prints steps to remedy the failed step.  
+   The setup may take several minutes to complete when run for the first time. If any automation step fails, the script prints steps to remedy the failed step.  
    Once the script succeeds, it will provide the URL for your dashboard.
 
 ### Switching Sources Later
