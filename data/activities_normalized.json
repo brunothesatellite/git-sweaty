@@ -11242,5 +11242,17 @@
     "start_date_local": "2026-02-13T11:51:32",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21858635863",
+    "moving_time": 195.37100219726562,
+    "raw_activity_type": "meditation",
+    "raw_type": "meditation",
+    "start_date_local": "2026-02-13T20:36:01",
+    "type": "meditation",
+    "year": 2026
   }
 ]
