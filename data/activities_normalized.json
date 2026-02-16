@@ -11278,5 +11278,41 @@
     "start_date_local": "2026-02-15T10:24:39",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21879380005",
+    "moving_time": 207.13900756835938,
+    "raw_activity_type": "meditation",
+    "raw_type": "meditation",
+    "start_date_local": "2026-02-15T20:15:14",
+    "type": "meditation",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-16",
+    "distance": 9043.2001953125,
+    "elevation_gain": 39.0,
+    "id": "21882638907",
+    "moving_time": 3349.803985595703,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-02-16T07:50:59",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21885501964",
+    "moving_time": 840.0,
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-02-16T14:51:26",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

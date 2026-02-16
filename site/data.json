@@ -6579,6 +6579,27 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-02-15",
+      "hour": 20,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-16",
+      "hour": 7,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-16",
+      "hour": 14,
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13949,6 +13970,15 @@
           "distance": 13467.169921875,
           "elevation_gain": 68.0,
           "moving_time": 4976.2659912109375
+        },
+        "2026-02-16": {
+          "activity_ids": [
+            "21882638907"
+          ],
+          "count": 1,
+          "distance": 9043.2001953125,
+          "elevation_gain": 39.0,
+          "moving_time": 3349.803985595703
         }
       },
       "Walk": {
@@ -14166,6 +14196,15 @@
         "2026-02-12": {
           "activity_ids": [
             "21844521778"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 840.0
+        },
+        "2026-02-16": {
+          "activity_ids": [
+            "21885501964"
           ],
           "count": 1,
           "distance": 0.0,
@@ -14497,11 +14536,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 276.97698974609375
+        },
+        "2026-02-15": {
+          "activity_ids": [
+            "21879380005"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 207.13900756835938
         }
       }
     }
   },
-  "generated_at": "2026-02-15T15:33:21.127847+00:00",
+  "generated_at": "2026-02-16T15:50:57.218426+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
