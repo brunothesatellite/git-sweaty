@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T15:50:57.202294+00:00",
+  "generated_at": "2026-02-17T16:01:08.068380+00:00",
   "years": {
     "2022": {
       "Run": {
@@ -7377,6 +7377,15 @@
           "distance": 9043.2001953125,
           "elevation_gain": 39.0,
           "moving_time": 3349.803985595703
+        },
+        "2026-02-17": {
+          "activity_ids": [
+            "21895171852"
+          ],
+          "count": 1,
+          "distance": 9461.2998046875,
+          "elevation_gain": 54.0,
+          "moving_time": 3328.3470153808594
         }
       },
       "Walk": {
@@ -7608,6 +7617,26 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 840.0
+        },
+        "2026-02-17": {
+          "activity_ids": [
+            "21892797907"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 307.6830139160156
+        }
+      },
+      "e_sport": {
+        "2026-02-16": {
+          "activity_ids": [
+            "21889986475"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6245.98095703125
         }
       },
       "meditation": {
@@ -7943,6 +7972,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 207.13900756835938
+        },
+        "2026-02-16": {
+          "activity_ids": [
+            "21888794026"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 338.4309997558594
         }
       }
     }
