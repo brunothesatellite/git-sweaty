@@ -6628,6 +6628,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-02-17",
+      "hour": 20,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14611,11 +14618,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 338.4309997558594
+        },
+        "2026-02-17": {
+          "activity_ids": [
+            "21899713676"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 244.07000732421875
         }
       }
     }
   },
-  "generated_at": "2026-02-17T16:01:08.085260+00:00",
+  "generated_at": "2026-02-18T16:00:46.383157+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
