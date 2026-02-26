@@ -6719,6 +6719,20 @@
       "subtype": "meditation",
       "type": "meditation",
       "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 20,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 7,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14143,6 +14157,15 @@
           "distance": 8287.41015625,
           "elevation_gain": 43.0,
           "moving_time": 2648.665985107422
+        },
+        "2026-02-26": {
+          "activity_ids": [
+            "21988911331"
+          ],
+          "count": 1,
+          "distance": 5013.52001953125,
+          "elevation_gain": 20.0,
+          "moving_time": 1700.0
         }
       },
       "Walk": {
@@ -14819,11 +14842,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 443.4599914550781
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "21985017840"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 249.89199829101562
         }
       }
     }
   },
-  "generated_at": "2026-02-25T16:12:08.930351+00:00",
+  "generated_at": "2026-02-26T16:00:54.197708+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
