@@ -11566,5 +11566,17 @@
     "start_date_local": "2026-02-27T07:19:12",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-01",
+    "distance": 2505.820068359375,
+    "elevation_gain": 218.0,
+    "id": "22022026240",
+    "moving_time": 1335.0,
+    "raw_activity_type": "resort_skiing",
+    "raw_type": "resort_skiing",
+    "start_date_local": "2026-03-01T10:08:16",
+    "type": "resort_skiing",
+    "year": 2026
   }
 ]
