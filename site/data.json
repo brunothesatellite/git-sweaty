@@ -6775,6 +6775,34 @@
       "subtype": "resort_skiing",
       "type": "resort_skiing",
       "year": 2026
+    },
+    {
+      "date": "2026-03-02",
+      "hour": 16,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-02",
+      "hour": 20,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 9,
+      "subtype": "resort_skiing",
+      "type": "resort_skiing",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 14,
+      "subtype": "resort_skiing",
+      "type": "resort_skiing",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14217,6 +14245,15 @@
           "distance": 6075.14013671875,
           "elevation_gain": 21.0,
           "moving_time": 2196.303985595703
+        },
+        "2026-03-02": {
+          "activity_ids": [
+            "22036912253"
+          ],
+          "count": 1,
+          "distance": 5109.43994140625,
+          "elevation_gain": 147.0,
+          "moving_time": 1939.4599914550781
         }
       },
       "Walk": {
@@ -14920,6 +14957,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 326.9129943847656
+        },
+        "2026-03-02": {
+          "activity_ids": [
+            "22039151017"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 832.9299926757812
         }
       },
       "resort_skiing": {
@@ -14941,11 +14987,21 @@
           "distance": 45278.669921875,
           "elevation_gain": 4299.0,
           "moving_time": 10802.0
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "22044875729",
+            "22047769953"
+          ],
+          "count": 2,
+          "distance": 46010.810546875,
+          "elevation_gain": 4315.0,
+          "moving_time": 10382.0
         }
       }
     }
   },
-  "generated_at": "2026-03-02T15:50:42.008815+00:00",
+  "generated_at": "2026-03-03T15:54:36.735239+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
@@ -15078,8 +15134,8 @@
     "Workout",
     "Yoga",
     "meditation",
-    "jump_rope",
     "resort_skiing",
+    "jump_rope",
     "breathwork",
     "e_sport",
     "multi_sport",
