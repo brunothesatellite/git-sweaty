@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T15:54:36.718523+00:00",
+  "generated_at": "2026-03-04T15:53:04.155908+00:00",
   "years": {
     "2022": {
       "Run": {
@@ -8161,6 +8161,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 832.9299926757812
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "22050922367"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 890.8619995117188
         }
       },
       "resort_skiing": {
@@ -8192,6 +8201,17 @@
           "distance": 46010.810546875,
           "elevation_gain": 4315.0,
           "moving_time": 10382.0
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            "22055831490",
+            "22056784047",
+            "22059571411"
+          ],
+          "count": 3,
+          "distance": 47449.57958984375,
+          "elevation_gain": 4490.0,
+          "moving_time": 11119.0
         }
       }
     }
