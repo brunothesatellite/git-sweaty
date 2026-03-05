@@ -11710,5 +11710,41 @@
     "start_date_local": "2026-03-04T14:19:16",
     "type": "resort_skiing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22063311624",
+    "moving_time": 617.6649780273438,
+    "raw_activity_type": "meditation",
+    "raw_type": "meditation",
+    "start_date_local": "2026-03-04T21:01:42",
+    "type": "meditation",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 28625.609375,
+    "elevation_gain": 3079.0,
+    "id": "22068442356",
+    "moving_time": 5506.0,
+    "raw_activity_type": "resort_skiing",
+    "raw_type": "resort_skiing",
+    "start_date_local": "2026-03-05T09:22:51",
+    "type": "resort_skiing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 33940.6015625,
+    "elevation_gain": 3084.0,
+    "id": "22071391679",
+    "moving_time": 8923.0,
+    "raw_activity_type": "resort_skiing",
+    "raw_type": "resort_skiing",
+    "start_date_local": "2026-03-05T13:43:25",
+    "type": "resort_skiing",
+    "year": 2026
   }
 ]
