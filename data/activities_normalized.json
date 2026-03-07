@@ -11782,5 +11782,17 @@
     "start_date_local": "2026-03-06T14:06:42",
     "type": "resort_skiing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22084666236",
+    "moving_time": 734.7730102539062,
+    "raw_activity_type": "meditation",
+    "raw_type": "meditation",
+    "start_date_local": "2026-03-06T20:28:58",
+    "type": "meditation",
+    "year": 2026
   }
 ]

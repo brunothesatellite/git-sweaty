@@ -6873,6 +6873,13 @@
       "subtype": "resort_skiing",
       "type": "resort_skiing",
       "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 20,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15063,6 +15070,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 702.4180297851562
+        },
+        "2026-03-06": {
+          "activity_ids": [
+            "22084666236"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 734.7730102539062
         }
       },
       "resort_skiing": {
@@ -15129,7 +15145,7 @@
       }
     }
   },
-  "generated_at": "2026-03-06T15:48:29.728288+00:00",
+  "generated_at": "2026-03-07T15:31:23.784412+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
