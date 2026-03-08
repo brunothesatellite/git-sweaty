@@ -11794,5 +11794,29 @@
     "start_date_local": "2026-03-06T20:28:58",
     "type": "meditation",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22096646680",
+    "moving_time": 360.510986328125,
+    "raw_activity_type": "meditation",
+    "raw_type": "meditation",
+    "start_date_local": "2026-03-07T22:10:26",
+    "type": "meditation",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 21262.880859375,
+    "elevation_gain": 97.0,
+    "id": "22100830300",
+    "moving_time": 6365.3809814453125,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-08T09:35:00",
+    "type": "Run",
+    "year": 2026
   }
 ]
