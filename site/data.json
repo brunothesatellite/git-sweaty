@@ -6894,6 +6894,20 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 15,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 22,
+      "subtype": "meditation",
+      "type": "meditation",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14421,6 +14435,15 @@
           "distance": 4074.18994140625,
           "elevation_gain": 93.0,
           "moving_time": 3346.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "22105825119"
+          ],
+          "count": 1,
+          "distance": 3628.5400390625,
+          "elevation_gain": 28.0,
+          "moving_time": 3164.0
         }
       },
       "WeightTraining": {
@@ -15111,6 +15134,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 360.510986328125
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "22109567614"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 322.2040100097656
         }
       },
       "resort_skiing": {
@@ -15177,7 +15209,7 @@
       }
     }
   },
-  "generated_at": "2026-03-08T15:32:10.758330+00:00",
+  "generated_at": "2026-03-09T16:05:08.243861+00:00",
   "other_bucket": "OtherSports",
   "source": "garmin",
   "type_meta": {
