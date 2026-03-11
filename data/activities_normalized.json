@@ -11866,5 +11866,17 @@
     "start_date_local": "2026-03-10T13:23:26",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22130352121",
+    "moving_time": 345.0920104980469,
+    "raw_activity_type": "meditation",
+    "raw_type": "meditation",
+    "start_date_local": "2026-03-10T20:13:28",
+    "type": "meditation",
+    "year": 2026
   }
 ]
