@@ -11902,5 +11902,29 @@
     "start_date_local": "2026-03-12T12:45:12",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22152381773",
+    "moving_time": 737.8629760742188,
+    "raw_activity_type": "meditation",
+    "raw_type": "meditation",
+    "start_date_local": "2026-03-12T19:29:19",
+    "type": "meditation",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 7731.0,
+    "elevation_gain": 44.0,
+    "id": "22158775234",
+    "moving_time": 2534.6000061035156,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-13T12:14:45",
+    "type": "Run",
+    "year": 2026
   }
 ]
